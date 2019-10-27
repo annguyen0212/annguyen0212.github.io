@@ -6,6 +6,7 @@ comments: false
 
 # Papers 
 
+Bernard J.A., **Nguyen A.D.**, Hausman H.K., Maldonado T., Ballard H.K., Eakin S.M., Lokshina Y., Goen J.R.M. (2019). Shaky Scaffolding: Age Differences In Cerebellar Activation Revealed Through Activation Likelihood Estimation Meta-Analysis. Under Review in Psychological Sciences
 
 # Conference Presentations/Posters
 Schneider J., Arnon I., **Nguyen A.**, Medez K., & Qi Z. (2019). Does prior language experience hinder statistical learning? Poster presented at *Boston University Conference on Language Development*, Boston, MA.
