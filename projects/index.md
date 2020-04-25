@@ -6,7 +6,7 @@ comments: false
 
 # Papers 
 
-**Nguyen, A.**, & Legendre, G. (2020). <a href="http://www.journals.linguisticsociety.org/proceedings/index.php/PLSA/article/viewFile/4696/4323" style="text-decoration:none color:blue">Covert movement in English probing wh-questions.</a>. In *Proceedings of Linguistic Society of America 2020 Annual Meeting*. 5(1). 180-186. 
+**Nguyen, A.**, & Legendre, G. (2020). <a href="http://www.journals.linguisticsociety.org/proceedings/index.php/PLSA/article/viewFile/4696/4323" style="text-decoration:none">Covert movement in English probing wh-questions.</a>. In *Proceedings of Linguistic Society of America 2020 Annual Meeting*. 5(1). 180-186. 
 
 # Conference Presentations/Posters
 **Nguyen, A.**, Howe, W., & Legendre, G. (2020). English-speaking children’s acquisition of wh-in-situ. *Poster at Generative Approaches to Language Acquisition North America 6*. Reykjavík, Iceland.
