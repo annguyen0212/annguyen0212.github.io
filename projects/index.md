@@ -19,9 +19,9 @@ Schneider J., Weng Y., Kozloff V., **Nguyen A.**, & Qi Z. (2019).<a href="https:
 
 Qi Z., **Nguyen A.**, Ozernov-Palchik O., Beach S., May S., Arciuli J., & Gabrieli J.D.E. (2018). <a href="https://sites.udel.edu/q-lab/files/2018/08/Qi_Zhenghan-18nl2yf.pdf" style="color:blue">Statistical learning in reading development and reading impairment.</a> Poster presented at *Boston University Conference on Language Development*, Boston, MA.
 
-**Nguyen A.**, Sanchez Araujo Y., Georgan W., Arciuli J., & Qi Z. (2018). [Re-examine the reliability of statistical learning tasks across domains and modalities.](https://sites.udel.edu/zqi/files/2018/11/Nguyen_psychonomics2018_final-14uxq7i.pdf) Poster presented at *Psychonomic Society Annual Meeting*, New Orleans.
+**Nguyen A.**, Sanchez Araujo Y., Georgan W., Arciuli J., & Qi Z. (2018). <a href="https://sites.udel.edu/zqi/files/2018/11/Nguyen_psychonomics2018_final-14uxq7i.pdf" style="color:blue">Re-examine the reliability of statistical learning tasks across domains and modalities.</a> Poster presented at *Psychonomic Society Annual Meeting*, New Orleans.
 
-Kozloff V., **Nguyen A.**, Arciuli J., & Qi Z. (2018). [Statistical learning in a noisy environment is associated with vocabulary.](https://sites.udel.edu/q-lab/files/2018/08/Kozloff_Violet-qw1gv0.pdf) Poster presented at *Boston University Conference on Language Development*, Boston, MA.
+Kozloff V., **Nguyen A.**, Arciuli J., & Qi Z. (2018). <a href="https://sites.udel.edu/q-lab/files/2018/08/Kozloff_Violet-qw1gv0.pdf" style="color:blue">Statistical learning in a noisy environment is associated with vocabulary.</a> Poster presented at *Boston University Conference on Language Development*, Boston, MA.
 
 Mendez K., **Nguyen A.**, Kozloff V., & Qi Z. (2018). The role of native language in statistical learning success. Poster presented at *University of Delaware’s ninth annual Undergraduate Research and Service Scholar Celebratory Symposium*, Newark, DE.
 
