@@ -2,17 +2,18 @@
 layout: page
 title: Publications
 comments: false
+
 ---
 
 # Papers 
 
-2. **Nguyen, A.**, & Legendre, G. (2020). <a href="http://www.journals.linguisticsociety.org/proceedings/index.php/PLSA/article/viewFile/4696/4323" style="color:blue; text-decoration:none">Covert movement in English probing wh-questions.</a>. In *Proceedings of Linguistic Society of America 2020 Annual Meeting*. 5(1). 180-186. 
+1. **Nguyen, A.**, & Legendre, G. (2020). <a href="http://www.journals.linguisticsociety.org/proceedings/index.php/PLSA/article/viewFile/4696/4323" style="color:blue; text-decoration:none">Covert movement in English probing wh-questions.</a>. In *Proceedings of Linguistic Society of America 2020 Annual Meeting*. 5(1). 180-186. 
 
 1. Bernard, JA, **Nguyen, A**, Hausman, HK, et al. (2020). <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25191" style ="color:blue; text-decoration:none"> Shaky scaffolding: Age differences in cerebellar activation
 revealed through activation likelihood estimation meta‐analysis </a>. *Human Brain Mapping*. 1– 27.
 
 # Talks
-5. **Nguyen, A.**, & Legendre, G. (2020). Testing syntactic simplicity: wh-in-situ vs. fronted wh-questions in L1
+1. **Nguyen, A.**, & Legendre, G. (2020). Testing syntactic simplicity: wh-in-situ vs. fronted wh-questions in L1
 acquisition. Talk at *Many Paths to Language, Max Planck Institute Conference*, Nijmegen, The Netherlands.
 Acceptance rate: **23.5%**
 4. **Nguyen, A.**, Howe, W., & Legendre, G. (2020). Prosody as the main cue to differentiate wh-in-situ questions in
@@ -23,7 +24,7 @@ Johns Hopkins University, Baltimore, MD.
 1. **Nguyen, A.**, & Kozloff, V. (2017). Statistical learning and language. Talk at the *Experimental Group Meeting at the Department of Linguistics and Cognitive Science*, University of Delaware, Newark, DE
 
 # Conference Posters
-8. **Nguyen, A.**, Howe, W., & Legendre, G. (2020). English-speaking children’s acquisition of wh-in-situ. *Poster at Generative Approaches to Language Acquisition North America 6*. Reykjavík, Iceland.
+1. **Nguyen, A.**, Howe, W., & Legendre, G. (2020). English-speaking children’s acquisition of wh-in-situ. *Poster at Generative Approaches to Language Acquisition North America 6*. Reykjavík, Iceland.
 
 7. Weng, Y.L, **Nguyen, A.**, Ryskin,R., & Qi, Z. (2020). <a href="https://osf.io/xntp5/" style="color:blue; text-decoration:none">Prediction and sentence ambiguity resolution: A simultaneous eye-tracking and EEG study</a>. *Poster at 33rd Annual CUNY Human Sentence Processing Conference*, Amherst, MA. 
 
