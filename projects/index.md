@@ -8,6 +8,9 @@ comments: false
 
 **Nguyen, A.**, & Legendre, G. (2020). <a href="http://www.journals.linguisticsociety.org/proceedings/index.php/PLSA/article/viewFile/4696/4323" style="color:blue; text-decoration:none">Covert movement in English probing wh-questions.</a>. In *Proceedings of Linguistic Society of America 2020 Annual Meeting*. 5(1). 180-186. 
 
+Bernard, JA, **Nguyen, A**, Hausman, HK, et al. (2020). <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25191" style ="color:blue; text-decoration:none"> Shaky scaffolding: Age differences in cerebellar activation
+revealed through activation likelihood estimation meta‐analysis. *Human Brain Mapping*. 1– 27.
+
 # Conference Presentations/Posters
 **Nguyen, A.**, Howe, W., & Legendre, G. (2020). English-speaking children’s acquisition of wh-in-situ. *Poster at Generative Approaches to Language Acquisition North America 6*. Reykjavík, Iceland.
 
@@ -30,4 +33,3 @@ Mendez K., **Nguyen A.**, Kozloff V., & Qi Z. (2018). The role of native languag
 
 Schneider, J., Arnon, I., **Nguyen, A.**, Mendez, K., & Qi, Z. *The relationship between statistical learning and prior language experience.*
 
-Bernard J.A., **Nguyen A.**, Hausman H.K., Maldonado T., Ballard H.K., Eakin S.M., Lokshina Y., Goen J.R.M. [*Shaky Scaffolding: Age Differences In Cerebellar Activation Revealed Through Activation Likelihood Estimation Meta-Analysis.*](https://www.biorxiv.org/content/10.1101/716530v1)
