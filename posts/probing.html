@@ -39,7 +39,7 @@ body {font-family: "Lato", sans-serif}
 </style>
 
 
-    
+//Display the sound control  
  </div>
 <center><section class="main-controls" id="sound">
         <canvas class="visualizer" height="50"></canvas>
@@ -52,12 +52,11 @@ body {font-family: "Lato", sans-serif}
  </center>
  </div>
  
-  <div  id="mic" align='middle'   class="mic">
-  <br>
+ 
 
    </body>   
    
- //Button redirects to website after mic check 
+ // Button redirects to website after mic check 
 <footer><center><div id='button'> <br><br>  <a  onclick='document.getElementById("band").style.display= "none";document.getElementById("sound").style.display= "none";document.getElementById("button").style.display= "none";document.getElementById("clip").style.display= "none";document.getElementById("mic").style.display="block"'  class="yes">Click here if your microphone works</a>
 
 <a  onclick="window.location = 'https://cogscigame.co/dropbox/gj_practice.html'" class="no">Click here if your microphone doesn't work</a>    
@@ -230,6 +229,8 @@ function visualize(stream) {
   source.connect(analyser);
   //analyser.connect(audioCtx.destination);
 
+    
+   // draw the audio canvas
   draw()
 
   function draw() {
@@ -279,38 +280,6 @@ window.onresize = function() {
 window.onresize();
 </script>
 
-<!-- ----------------------------------------------------------------------------- -->
-<script>
-var manifest_url = location.href + 'manifest.webapp';
-
-function install(ev) {
-  ev.preventDefault();
-  // define the manifest URL
-  // install the app
-  var installLocFind = navigator.mozApps.install(manifest_url);
-  installLocFind.onsuccess = function(data) {
-    // App is installed, do something 
-  };
-  installLocFind.onerror = function() {
-    // App wasnt installed, info is in
-    // installapp.error.name
-    alert(installLocFind.error.name);
-  };
-};
-
-// get a reference to the button and call install() on click if the app isnt already installed. If it is, hide the button.
-var button = document.getElementById('install-btn');
-
-var installCheck = navigator.mozApps.checkInstalled(manifest_url);
-
-installCheck.onsuccess = function() {
-  if(installCheck.result) {
-    button.style.display = "none";
-  } else {
-    button.addEventListener('click', install, false);
-  };
-};
-</script>
 
 <!-- ------------------------------------------ -->
 <script>
@@ -334,8 +303,6 @@ function download(data, strFileName, strMimeType) {
 		b,
 		ua,
 		fr;
-
-	//if(typeof B.bind === 'function' ){ B=B.bind(self); }
 	
 	if(String(this)==="true"){ //reverse arguments, allowing download.bind(true, "text/xml", "export.xml") to act as a callback
 		x=[x, m];
@@ -365,8 +332,6 @@ function download(data, strFileName, strMimeType) {
 		}
 		
 	}
-	
-	
 	
 	function d2b(u) {
 		var p= u.split(/[:;,]/),
