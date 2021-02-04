@@ -1,6 +1,5 @@
 ---
 layout: post-list
-title: All Posts
-excerpt: "A List of Posts"
+title: Research projects
 comments: false
 ---
