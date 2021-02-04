@@ -2,7 +2,7 @@
 layout: post
 title:  "Language Usage and Learning Bias"
 date:   2021-02-02
-excerpt: "Does simpler linguistic structure guarantee faster learning? Many theories predict so. Are more frequent elements easier to learn? That sounds like a reasonable hypothesis. But when we have a low-frequency but simple structure and a high-frequency but complex one, what should we expect? In this project, I investigate factors that influence children’s language acquisition and how they interact with one another."
+excerpt: "Does simpler linguistic structure guarantee faster learning? Many theories predict so. Are more frequent elements easier to learn? That sounds like a reasonable hypothesis. But when we have a **low-frequency but simple** structure and a **high-frequency but complex** one, what should we expect?
 feature: /image/Picture1.png
 
 
@@ -19,7 +19,7 @@ The second part of the project is a computational simulation study. I build a no
 
 ----
 
-Related publications:
+**Related publications:**
 Nguyen, A., & Legendre, G. (2020). Covert movement in English probing wh-questions.. In Proceedings of Linguistic Society of America 2020 Annual Meeting. 5(1). 180-186.
 
 Nguyen, A., & Legendre, G. (2020). Testing syntactic simplicity: wh-in-situ vs. fronted wh-questions in L1 acquisition. Talk at Many Paths to Language, Max Planck Institute Conference, Nijmegen, The Netherlands. Acceptance rate: 23.5%
