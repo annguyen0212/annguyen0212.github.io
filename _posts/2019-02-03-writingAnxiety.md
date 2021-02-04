@@ -7,6 +7,7 @@ comments: false
 ---
 
 This is the work I did when I was a Senior Statistical Consultant at the Center for Applied Statistics and Evaluation (CASE). Clients would come to us with their research needs - we helped with research design, data collection, data analysis, basically the whole package! For this project, my clients were the English department and the Writing Center of the university. They were interested in creating a diagnostic tool for Writing Anxiety. In order to do that, they asked us to help them with two main questions:
+
 1.How prevalent are WA in students?
 
 2. Who experience WA? What factors do they have in common?
