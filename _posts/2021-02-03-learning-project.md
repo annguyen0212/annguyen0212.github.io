@@ -3,7 +3,6 @@ layout: post
 title:  "Language Usage and Learning Bias"
 date:   2021-02-02
 excerpt: "Does simpler linguistic structure guarantee faster learning? Many theories predict so. Are more frequent elements easier to learn? That sounds like a reasonable hypothesis. But when we have a **low-frequency but simple** structure and a **high-frequency but complex** one, what should we expect?"
-feature: /image/Picture1.png
 comments: false
 ---
 
@@ -13,6 +12,11 @@ The first part of the project is an experimental study. I ran an experiment with
 -	Children can use prosody to differentiate between the two types of wh-questions
 -	Children have both constructions available to them in their grammar space, but they prefer to use the higher-frequency one, despite its complexity.
 -	Besides simplicity and frequency, consistency is also an important factor.
+
+{% capture images %}
+https://raw.githubusercontent.com/annguyen0212/annguyen0212.github.io/master/image/Picture1.png
+{% endcapture %}
+
 
 The second part of the project is a computational simulation study. I build a non-parametric Bayesian model that learns about different types of wh-questions. This study is still on-going.
 
