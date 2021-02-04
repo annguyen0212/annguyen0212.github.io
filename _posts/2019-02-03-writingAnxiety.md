@@ -10,7 +10,7 @@ This is the work I did when I was a Senior Statistical Consultant at the Center 
 
 1.How prevalent are WA in students?
 
-2. Who experience WA? What factors do they have in common?
+2.Who experience WA? What factors do they have in common?
 
 
 {% capture images %}
