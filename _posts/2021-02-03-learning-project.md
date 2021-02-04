@@ -6,6 +6,7 @@ comments: false
 ---
 
 Does simpler linguistic structure guarantee faster learning? Many theories predict so. Are more frequent elements easier to learn? That sounds like a reasonable hypothesis. But when we have a *low-frequency but simple structure* and a *high-frequency but complex* one, what should we expect? In this project, I investigate factors that influence children’s language acquisition and how they interact with one another.
+
 The first part of the project is an experimental study. I ran an experiment with 14 adults and 27 children to test their comprehension and production of English in-situ information-seeking wh-question (the low-frequency but simple structure) and fronted information-seeking wh-question (the high-frequency but complex). I also conduct a cross-linguistic study to compare the results I have with studies conducted in French. In general, the notable findings include:
 
 -	Children can use prosody to differentiate between the two types of wh-questions
