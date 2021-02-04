@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Language Usage and Learning Bias"
+title:  "Sentence ambiguity & information processing"
 date:   2020-02-02
-excerpt: "Sentence ambiguity & information processing"
-feature: /image/Picture1.png
+excerpt: "Do people wait until they finish hearing a sentence to process the information or they do so incrementally?"
 
 
 comments: false
