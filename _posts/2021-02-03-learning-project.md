@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Language Usage and Learning Bias"
-excerpt: "Does simpler linguistic structure guarantee faster learning? Many theories predict so. Are more frequent elements easier to learn? That sounds like a reasonable hypothesis. But when we have a **low-frequency but simple** structure and a **high-frequency but complex** one, what should we expect?"
+excerpt: "Does simpler linguistic structure guarantee faster learning? Many theories predict so. Are more frequent elements easier to learn? That sounds like a reasonable hypothesis. But when we have a low-frequency but simple structure and a high-frequency but complex one, what should we expect?"
 comments: false
 ---
 
