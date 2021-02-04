@@ -16,9 +16,9 @@ The first part of the project is an experimental study. I ran an experiment with
 {% capture images %}
 https://raw.githubusercontent.com/annguyen0212/annguyen0212.github.io/master/image/Picture1.png
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=1 %}
+{% include gallery images=images caption="
+Snapshot of the stimuli of my experiment. Because this study was done with children, I had to make sure the content is interesting and fun to keep my participants engaged. I ended up writing whole story (with lots of illustrations). The experiment was embedded into the story, and children would 'unlock' prizes as they went." cols=1 %}
 
-Snapshot of the stimuli of my experiment. Because this study was done with children, I had to make sure the content is interesting and fun to keep my participants engaged. I ended up writing whole story (with lots of illustrations). The experiment was embedded into the story, and children would 'unlock' prizes as they went.
 
 
 The second part of the project is a computational simulation study. I build a non-parametric Bayesian model that learns about different types of wh-questions. This study is still on-going.
