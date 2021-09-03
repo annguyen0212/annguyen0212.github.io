@@ -6,18 +6,20 @@ comments: false
 ---
 
 # Papers 
-1. **Nguyen, A.**, & Wilson, C. (2021). Learning the surface structure of wh-questions in English and French with a non-parametric Bayesian model. Proceedings of the *Society for Computation in Linguistics*, Vol. 4, Article 47.
-1. **Nguyen, A.**, & Legendre, G. (2020). <a href="http://www.journals.linguisticsociety.org/proceedings/index.php/PLSA/article/viewFile/4696/4323" style="color:blue; text-decoration:none">Covert movement in English probing wh-questions.</a>. In *Proceedings of Linguistic Society of America 2020 Annual Meeting*. 5(1). 180-186. 
-1. Bernard, JA, **Nguyen, A**, Hausman, HK, et al. (2020). <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25191" style ="color:blue; text-decoration:none"> Shaky scaffolding: Age differences in cerebellar activation
+1. **Nguyen, A.**, & Legendre, G. (2021). The acquisition of wh-questions: Beyond structural economy and input frequency. *Language Acquisition*. (in press)
+2. **Nguyen, A.**, & Wilson, C. (2021). <a href="https://scholarworks.umass.edu/scil/vol4/iss1/47/" style="color:blue;text-decoration:none">Learning the surface structure of wh-questions in English and French with a non-parametric Bayesian model</a>. Proceedings of the *Society for Computation in Linguistics*, Vol. 4, Article 47.
+3. **Nguyen, A.**, & Legendre, G. (2020). <a href="http://www.journals.linguisticsociety.org/proceedings/index.php/PLSA/article/viewFile/4696/4323" style="color:blue; text-decoration:none">Covert movement in English probing wh-questions.</a>. In *Proceedings of Linguistic Society of America 2020 Annual Meeting*. 5(1). 180-186. 
+4. Bernard, JA, **Nguyen, A**, Hausman, HK, et al. (2020). <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25191" style ="color:blue; text-decoration:none"> Shaky scaffolding: Age differences in cerebellar activation
 revealed through activation likelihood estimation meta‐analysis </a>. *Human Brain Mapping*. 1– 27.
 
 # Talks
-1. **Nguyen, A.**, & Legendre, G. (2020). Testing syntactic simplicity: wh-in-situ vs. fronted wh-questions in L1
+1. **Nguyen, A.**, & Wilson, C. (2022). Modeling the acquisition of question variants in English. Talk at the *Linguistic Society of America 2022 Annual Meeting*, Washington DC. Acceptance rate: **34%**.
+2. **Nguyen, A.**, & Legendre, G. (2021). The acquisition of English wh-in-situ. Talk at the *Linguistic Society of America 2021 Annual Meeting*, San Francisco, CA. Acceptance rate: **35.2%**.
+3.  **Nguyen, A.**, & Legendre, G. (2020). Testing syntactic simplicity: wh-in-situ vs. fronted wh-questions in L1
 acquisition. Talk at *Many Paths to Language, Max Planck Institute Conference*, Nijmegen, The Netherlands.
 Acceptance rate: **23.5%**
 4. **Nguyen, A.**, Howe, W., & Legendre, G. (2020). Prosody as the main cue to differentiate wh-in-situ questions in
 acquisition. Talk at the *18th Old World Conference on Phonology*, Eivissa, Spain.
-3. **Nguyen, A.**, & Legendre, G. (2020). The acquisition of English wh-in-situ. Talk at the *Linguistic Society of America 2021 Annual Meeting*, San Francisco, CA. Acceptance rate: **35.2%**.
 2. **Nguyen, A**. (2020). The acquisition of English wh-in-situ. *Brown Bag talk at the Cognitive Science Department*,
 Johns Hopkins University, Baltimore, MD.
 1. **Nguyen, A.**, & Kozloff, V. (2017). Statistical learning and language. Talk at the *Experimental Group Meeting at the Department of Linguistics and Cognitive Science*, University of Delaware, Newark, DE
