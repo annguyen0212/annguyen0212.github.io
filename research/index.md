@@ -3,6 +3,18 @@ layout: page
 title: News!
 comments: true
 ---
+**December 2021**: I'm going to give an invited talk at the University of Maryland on my recent work in language acquisition!
+
+**November 2021**: I presented a poster on the computational model of the acquisition of multiple variants. This is the work in collaboration with Colin Wilson. I also received the Diversity Travel Fellowship, yay.
+
+**September 2021**: My paper, *The acquisition of wh-questions: Beyond structural economy and input frequency* is finally published on *Language Acquisition*.
+
+**June 2021**: I was informed that my SLI fellowship is renewed for another year! 
+
+**May 2021**: The *Generative Approaches to Language Acquisition North America* 6th conference was moved to an online format because of Covid-19, which means I (sadly) missed my chance to visit Iceland. I gave my virtual talk on my experiment on English-speaking children’s acquisition of wh-in-situ.
+
+**February 2021**: Presenting a poster at the Society for Computation in Linguistics 2021, virtually again, of course. 
+
 **November 2020**: I gave a virtual Brown Bag talk on my first-year project titled *The acquisition of English wh-in-situ* to the department of Cognitive Science at JHU.
 
 **October 2020**: I gave a virtual talk titled *Testing syntactic simplicity: wh-in-situ vs. fronted wh-questions in L1
