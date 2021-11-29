@@ -14,8 +14,9 @@ revealed through activation likelihood estimation meta‐analysis </a>. *Human B
 
 # Talks
 1. **Nguyen, A.**, & Wilson, C. (2022). Modeling the acquisition of question variants in English. Talk at the *Linguistic Society of America 2022 Annual Meeting*, Washington DC. Acceptance rate: **34%**.
-2. **Nguyen, A.**, & Legendre, G. (2021). The acquisition of English wh-in-situ. Talk at the *Linguistic Society of America 2021 Annual Meeting*, San Francisco, CA. Acceptance rate: **35.2%**.
-3.  **Nguyen, A.**, & Legendre, G. (2020). Testing syntactic simplicity: wh-in-situ vs. fronted wh-questions in L1
+2. **Nguyen, A**. (2021). The acquisition of wh-question variants. Invited talk at the *University of Maryland, Linguistics department*.
+3. **Nguyen, A.**, & Legendre, G. (2021). The acquisition of English wh-in-situ. Talk at the *Linguistic Society of America 2021 Annual Meeting*, San Francisco, CA. Acceptance rate: **35.2%**.
+4.  **Nguyen, A.**, & Legendre, G. (2020). Testing syntactic simplicity: wh-in-situ vs. fronted wh-questions in L1
 acquisition. Talk at *Many Paths to Language, Max Planck Institute Conference*, Nijmegen, The Netherlands.
 Acceptance rate: **23.5%**
 4. **Nguyen, A.**, Howe, W., & Legendre, G. (2020). Prosody as the main cue to differentiate wh-in-situ questions in
