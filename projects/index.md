@@ -6,13 +6,14 @@ comments: false
 ---
 
 # Papers 
-1. **Nguyen, A.**, & Legendre, G. (2021). <a href="https://raw.githubusercontent.com/annguyen0212/annguyen0212.github.io/master/posts/The%20acquisition%20of%20wh%20questions%20Beyond%20structural%20economy%20and%20input%20frequency.pdf" style="color:blue;text-decoration:none"> The acquisition of wh-questions: Beyond structural economy and input frequency</a>. *Language Acquisition*, Vol. 29(1), 79-104.
+1. **Nguyen, A.**, & Legendre, G. (2022). <a href="https://raw.githubusercontent.com/annguyen0212/annguyen0212.github.io/master/posts/The%20acquisition%20of%20wh%20questions%20Beyond%20structural%20economy%20and%20input%20frequency.pdf" style="color:blue;text-decoration:none"> The acquisition of wh-questions: Beyond structural economy and input frequency</a>. *Language Acquisition*, Vol. 29(1), 79-104.
 2. **Nguyen, A.**, & Wilson, C. (2021). <a href="https://scholarworks.umass.edu/scil/vol4/iss1/47/" style="color:blue;text-decoration:none">Learning the surface structure of wh-questions in English and French with a non-parametric Bayesian model</a>. Proceedings of the *Society for Computation in Linguistics*, Vol. 4, Article 47.
 3. **Nguyen, A.**, & Legendre, G. (2020). <a href="http://www.journals.linguisticsociety.org/proceedings/index.php/PLSA/article/viewFile/4696/4323" style="color:blue; text-decoration:none">Covert movement in English probing wh-questions.</a>. In *Proceedings of Linguistic Society of America 2020 Annual Meeting*. 5(1). 180-186. 
 4. Bernard, JA, **Nguyen, A**, Hausman, HK, et al. (2020). <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25191" style ="color:blue; text-decoration:none"> Shaky scaffolding: Age differences in cerebellar activation
 revealed through activation likelihood estimation meta‐analysis </a>. *Human Brain Mapping*. 1– 27.
 
 # Talks
+1. Zhu, Z., & **Nguyen, A.**. (2022). The interaction between structure, discourse, and prosody in wh-questions in English. Talk at the *Chicago Linguistic Society 58*, Chicago.
 1. **Nguyen, A.**, & Wilson, C. (2022). Modeling the acquisition of question variants in English. Talk at the *Linguistic Society of America 2022 Annual Meeting*, Washington DC. Acceptance rate: **34%**.
 2. **Nguyen, A**. (2021). The acquisition of wh-question variants. Invited talk at the *University of Maryland, Linguistics department*.
 3. **Nguyen, A.**, & Legendre, G. (2021). The acquisition of English wh-in-situ. Talk at the *Linguistic Society of America 2021 Annual Meeting*, San Francisco, CA. Acceptance rate: **35.2%**.
