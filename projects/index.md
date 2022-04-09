@@ -13,7 +13,7 @@ comments: false
 revealed through activation likelihood estimation meta‐analysis </a>. *Human Brain Mapping*. 1– 27.
 
 # Talks
-1. Zhu, Z., & **Nguyen, A.**. (2022). The interaction between structure, discourse, and prosody in wh-questions in English. Talk at the *Chicago Linguistic Society 58*, Chicago.
+1. Zhu, Z., & **Nguyen, A**. (2022). The interaction between structure, discourse, and prosody in wh-questions in English. Talk at the *Chicago Linguistic Society 58*, Chicago, IL.
 1. **Nguyen, A.**, & Wilson, C. (2022). Modeling the acquisition of question variants in English. Talk at the *Linguistic Society of America 2022 Annual Meeting*, Washington DC. Acceptance rate: **34%**.
 2. **Nguyen, A**. (2021). The acquisition of wh-question variants. Invited talk at the *University of Maryland, Linguistics department*.
 3. **Nguyen, A.**, & Legendre, G. (2021). The acquisition of English wh-in-situ. Talk at the *Linguistic Society of America 2021 Annual Meeting*, San Francisco, CA. Acceptance rate: **35.2%**.
