@@ -7,9 +7,10 @@ comments: false
 
 # Papers 
 1. **Nguyen, A.**, & Legendre, G. (2022). <a href="https://raw.githubusercontent.com/annguyen0212/annguyen0212.github.io/master/posts/The%20acquisition%20of%20wh%20questions%20Beyond%20structural%20economy%20and%20input%20frequency.pdf" style="color:blue;text-decoration:none"> The acquisition of wh-questions: Beyond structural economy and input frequency</a>. *Language Acquisition*, Vol. 29(1), 79-104.
-2. **Nguyen, A.**, & Wilson, C. (2021). <a href="https://scholarworks.umass.edu/scil/vol4/iss1/47/" style="color:blue;text-decoration:none">Learning the surface structure of wh-questions in English and French with a non-parametric Bayesian model</a>. Proceedings of the *Society for Computation in Linguistics*, Vol. 4, Article 47.
-3. **Nguyen, A.**, & Legendre, G. (2020). <a href="http://www.journals.linguisticsociety.org/proceedings/index.php/PLSA/article/viewFile/4696/4323" style="color:blue; text-decoration:none">Covert movement in English probing wh-questions.</a>. In *Proceedings of Linguistic Society of America 2020 Annual Meeting*. 5(1). 180-186. 
-4. Bernard, JA, **Nguyen, A**, Hausman, HK, et al. (2020). <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25191" style ="color:blue; text-decoration:none"> Shaky scaffolding: Age differences in cerebellar activation
+2. **Nguyen, A**, & Wilson, C. (2022). <a href="http://www.lingref.com/bucld/46/BUCLD46-43.pdf" style="color:blue;text-decoration:none"> Modeling the acquisition of question variants in English</a>. In *Proceedings of the 46th annual Boston University Conference on Language Development*, Vol. 2, 563-573.
+3. **Nguyen, A.**, & Wilson, C. (2021). <a href="https://scholarworks.umass.edu/scil/vol4/iss1/47/" style="color:blue;text-decoration:none">Learning the surface structure of wh-questions in English and French with a non-parametric Bayesian model</a>. Proceedings of the *Society for Computation in Linguistics*, Vol. 4, Article 47.
+4. **Nguyen, A.**, & Legendre, G. (2020). <a href="http://www.journals.linguisticsociety.org/proceedings/index.php/PLSA/article/viewFile/4696/4323" style="color:blue; text-decoration:none">Covert movement in English probing wh-questions.</a>. In *Proceedings of Linguistic Society of America 2020 Annual Meeting*. 5(1). 180-186. 
+5. Bernard, JA, **Nguyen, A**, Hausman, HK, et al. (2020). <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25191" style ="color:blue; text-decoration:none"> Shaky scaffolding: Age differences in cerebellar activation
 revealed through activation likelihood estimation meta‐analysis </a>. *Human Brain Mapping*. 1– 27.
 
 # Talks
